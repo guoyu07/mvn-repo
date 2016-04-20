@@ -3,10 +3,10 @@
   <groupId>org.blankapp</groupId>
   <artifactId>blankapp</artifactId>
   <versioning>
-    <release>0.0.8-alpha</release>
+    <release>0.0.9-alpha</release>
     <versions>
-      <version>0.0.8-alpha</version>
+      <version>0.0.9-alpha</version>
     </versions>
-    <lastUpdated>20160415095000</lastUpdated>
+    <lastUpdated>20160420085701</lastUpdated>
   </versioning>
 </metadata>
